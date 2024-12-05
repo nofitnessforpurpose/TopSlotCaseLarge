@@ -39,6 +39,10 @@ The 3D model makes no accomodation for manufacturing tolerances, process or mate
 The assembly of the case has not been tested.  
 
 
+## Questions / Discussion
+See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+
+
 ## Please note:  
 All information is For Indication only.
 No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
