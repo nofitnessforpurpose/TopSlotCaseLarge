@@ -36,11 +36,16 @@ This model is intended to enable space claim assesment in design of PCB's
   
 ## Consderations
 The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
-The assembly of the case has not been tested.  
+The assembly of the case has been tested.  
 
+The original case also included an adhesive backed foam cut out that was compressed when the case inserted into position into the top slot. 
+
+<BR>
 
 ## Questions / Discussion
 See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+
+<BR>
 
 
 ## Please note:  
