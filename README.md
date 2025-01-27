@@ -34,12 +34,13 @@ This repository holds files needed to create a Top Slot Case large PCB for the P
 This model is intended to enable space claim assesment in design of PCB's
 
   
-## Consderations
+## Considerations
 The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
 The assembly of the case has been tested.  
 
 The original case also included an adhesive backed foam cut out that was compressed when the case inserted into position into the top slot. 
 
+PCB Aligment technique, dependant on the connector selected, can be found <a  target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotCase-2">here</a>.
 <BR>
 
 ## Questions / Discussion
