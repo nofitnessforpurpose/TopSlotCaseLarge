@@ -1,4 +1,4 @@
-# Top Slot Case Large - Pre Release
+# Top Slot Case Large
 
 PSION Organiser II - Top Slot Large Case  
 
