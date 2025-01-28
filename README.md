@@ -34,8 +34,8 @@ This repository holds files needed to create a Top Slot Case large PCB for the P
 Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
  - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCaseLarge/blob/main/CAD/Top%20Slot%20Housing%20Case%20Large%20Outer%2002.stp">here</a>.  
  - Cover - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCaseLarge/blob/main/CAD/Top%20Slot%20Housing%20Case%20Large%20SI%2004%20-%20TC.stp">here</a>.  
- - Foam Buffer - <a  target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCaseLarge/blob/main/CAD/Top%20Slot%20Housing%20Case%20Large%20Foam%20Cut%20Out.stp">here</a>.  
-
+ - Foam Buffer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCaseLarge/blob/main/CAD/Top%20Slot%20Housing%20Case%20Large%20Foam%20Cut%20Out.stp">here</a>.  
+ - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCaseLarge/blob/main/CAD/Assembly%20-%20Top%20Slot%20Housing%20Case%20Large%2003.stp">here</a>.  
 <br>
 
 ## Use Case
