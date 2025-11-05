@@ -44,13 +44,15 @@ This model is intended to enable space claim assesment in design of PCB's
 <BR>
 
 ## Considerations
-The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
+The 3D model makes no accommodation for manufacturing tolerances, process or material - see Notes below.  
+
 The assembly of the case has been tested.  
 
 The original case also included an adhesive backed foam cut out that was compressed when the case inserted into position into the top slot. 
 
-PCB Aligment technique, dependant on the connector selected, can be found <a  target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotCase-2">here</a>.
+PCB Alignment technique, dependant on the connector selected, can be found <a  target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotCase-2">here</a>.
 
+LEDO 6060 (at least from the fabricator concerned) was found to be extremely sensitive to ambient U.V. and suffered considerable discolouration.
 <BR>
 
 ## Questions / Discussion
